@@ -1,0 +1,15 @@
+.songs-list-logo-box{
+    position: relative;
+    width: 45px;
+    height: 45px;
+    border-radius: 50px;
+    border: 1px solid #eee;
+    overflow: hidden;
+}
+.songs-list-logo-box img{
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
